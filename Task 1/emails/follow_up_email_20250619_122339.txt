@@ -1,0 +1,11 @@
+To: sarah@university.edu
+Subject: Follow-up: Career Counseling Session - June 19, 2025
+Generated: 2025-06-19 12:23:34.690242
+--------------------------------------------------
+Subject: Following Up: Exploring Your Career Options, Sarah!
+
+Hi Sarah,
+
+It was great connecting with you yesterday and discussing your career aspirations! I enjoyed learning more about your experience in computer science and your interest in both software development and data science. To recap, we talked about leveraging your web development internship experience and your passion for problem-solving to explore roles that combine your strengths. We identified building a portfolio website showcasing web applications and completing a Python data analysis project as key steps to strengthen your candidacy. We also discussed targeting data science internships for the fall application cycle.
+
+To keep things moving forward, let's aim to have the Python data analysis project completed by the end of this month. Then, focus on building your portfolio website in October, showcasing your web app projects. Finally, remember to dedicate time in November to applying for data science internships. These are ambitious goals, but I'm confident you can achieve them! Remember to leverage online resources and networking opportunities to enhance your projects and connect with professionals in your field. I've scheduled a follow-up meeting for a month from now to review your progress and discuss any challenges you might be facing. In the meantime, please don't hesitate to reach out if you have any questions or need assistance. You've got this, Sarah!
